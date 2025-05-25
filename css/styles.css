@@ -152,8 +152,7 @@ button {
   justify-content: center;
   align-items: center;
   height: 600px;
-  padding-top: 188px;
-  padding-bottom: 188px;
+  padding: 188px 0;
 }
 
 .hero-title {
@@ -212,8 +211,7 @@ button {
 
 .features {
   background-color: #fff;
-  padding-top: 120px;
-  margin-bottom: 120px;
+  padding: 120px 0;
 }
 
 .features-list {
@@ -249,8 +247,7 @@ button {
 
 .team {
   background-color: #f4f4fd;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 
 .team-title {
@@ -308,8 +305,7 @@ button {
 
 .portfolio {
   background-color: #fff;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 
 .comtainer-portfolio-item {

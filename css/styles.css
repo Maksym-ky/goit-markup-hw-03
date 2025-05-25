@@ -331,6 +331,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
+  row-gap: 48px;
 }
 
 .portfolio-subtitle {
@@ -371,7 +372,6 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  display: block;
   margin-bottom: 16px;
 }
 

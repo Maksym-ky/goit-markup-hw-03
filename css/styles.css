@@ -68,8 +68,6 @@ button {
 .header-navigation {
   display: flex;
   align-items: center;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .header-logo {
@@ -81,6 +79,8 @@ button {
   text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-logo-studio {
@@ -112,6 +112,7 @@ button {
 
 .header-address-list {
   display: flex;
+  align-items: center;
   gap: 40px;
 }
 
@@ -164,11 +165,6 @@ button {
   max-width: 496px;
 }
 
-.hero-button {
-  display: block;
-  align-content: center;
-}
-
 .hero-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -184,6 +180,8 @@ button {
   border-radius: 4px;
   padding: 16px 32px;
   margin-bottom: 188px;
+  display: block;
+  align-content: center;
 }
 
 .hero-btn:focus {
